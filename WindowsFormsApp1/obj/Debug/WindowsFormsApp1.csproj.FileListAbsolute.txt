@@ -1,0 +1,162 @@
+C:\Users\e10828\source\repos\SampleThread\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\e10828\source\repos\SampleThread\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\e10828\source\repos\SampleThread\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\e10828\source\repos\SampleThread\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\e10828\source\repos\SampleThread\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\e10828\source\repos\SampleThread\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\e10828\source\repos\SampleThread\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\e10828\source\repos\SampleThread\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\e10828\source\repos\SampleThread\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\e10828\source\repos\SampleThread\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\e10828\source\repos\SampleThread\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl1.resources
+C:\Users\e10828\source\repos\SampleThread\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\e10828\source\repos\SampleThread\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\e10828\source\repos\SampleThread\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\e10828\source\repos\SampleThread\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\e10828\source\repos\WorkOrderProgressEdit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\e10828\source\repos\WorkOrderProgressEdit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\e10828\source\repos\WorkOrderProgressEdit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\e10828\source\repos\WorkOrderProgressEdit\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\e10828\source\repos\WorkOrderProgressEdit\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\e10828\source\repos\WorkOrderProgressEdit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\e10828\source\repos\WorkOrderProgressEdit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\e10828\source\repos\WorkOrderProgressEdit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\e10828\source\repos\WorkOrderProgressEdit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\e10828\source\repos\WorkOrderProgressEdit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl1.resources
+C:\Users\e10828\source\repos\WorkOrderProgressEdit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\e10828\source\repos\WorkOrderProgressEdit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\e10828\source\repos\WorkOrderProgressEdit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\e10828\source\repos\WorkOrderProgressEdit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\e10828\source\repos\WorkOrderProgressEdit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\PMC筆電備份\鼎烽\小工具\WorkOrderProgressEdit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\PMC筆電備份\鼎烽\小工具\WorkOrderProgressEdit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\PMC筆電備份\鼎烽\小工具\WorkOrderProgressEdit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\PMC筆電備份\鼎烽\小工具\WorkOrderProgressEdit\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\PMC筆電備份\鼎烽\小工具\WorkOrderProgressEdit\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\PMC筆電備份\鼎烽\小工具\WorkOrderProgressEdit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\PMC筆電備份\鼎烽\小工具\WorkOrderProgressEdit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\PMC筆電備份\鼎烽\小工具\WorkOrderProgressEdit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\PMC筆電備份\鼎烽\小工具\WorkOrderProgressEdit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\PMC筆電備份\鼎烽\小工具\WorkOrderProgressEdit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\PMC筆電備份\鼎烽\小工具\WorkOrderProgressEdit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl1.resources
+C:\PMC筆電備份\鼎烽\小工具\WorkOrderProgressEdit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\PMC筆電備份\鼎烽\小工具\WorkOrderProgressEdit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\PMC筆電備份\鼎烽\小工具\WorkOrderProgressEdit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\PMC筆電備份\鼎烽\小工具\WorkOrderProgressEdit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\PMC筆電備份\鼎烽\小工具\WorkOrderProgressEdit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl1.resources
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl1.resources
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯_V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯_V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯_V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯_V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯_V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯_V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl1.resources
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯_V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯_V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯_V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯_V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯_V2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯_V2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯_V2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯_V2\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯_V2\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯_V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl1.resources
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\bin\Debug\EPPlus.dll
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\bin\Debug\EPPlus.Interfaces.dll
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\bin\Debug\EPPlus.System.Drawing.dll
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\bin\Debug\System.Drawing.Common.dll
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\bin\Debug\EPPlus.xml
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\bin\Debug\System.Drawing.Common.pdb
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\bin\Debug\System.Drawing.Common.xml
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\bin\Debug\EPPlus.dll
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\bin\Debug\EPPlus.Interfaces.dll
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\bin\Debug\EPPlus.System.Drawing.dll
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\bin\Debug\System.Drawing.Common.dll
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\bin\Debug\EPPlus.xml
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\bin\Debug\System.Drawing.Common.pdb
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\bin\Debug\System.Drawing.Common.xml
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl1.resources
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\PMC筆電備份\廠商資料\3. 鼎烽\小工具\小工具整合_結合機台權限編輯&品質管制書_V5 - 複製\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
